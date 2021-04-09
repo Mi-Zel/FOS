@@ -27,12 +27,14 @@ Actually it’s not working yet how we want it to work. In this version only log
 Look for our presentation in powerpoin or try to run it.
 https://drive.google.com/file/d/1xAWQ6tzw998bcYK920XH-YZlC04Twa8B/view?usp=sharing
 https://drive.google.com/drive/folders/1LXduF7B26ZaYrr5jS8C3BUeMjboTDNDz?usp=sharing
+https://drive.google.com/file/d/1E5Cfa2I-NTNYZswHMSQKbcqTks2wGtiv/view?usp=sharing - you can try it with online pythone notebook application
 
 ## Presentation
 
 Look for our presentation in powerpoin or try to run it.
 https://drive.google.com/file/d/1xAWQ6tzw998bcYK920XH-YZlC04Twa8B/view?usp=sharing
 https://drive.google.com/drive/folders/1LXduF7B26ZaYrr5jS8C3BUeMjboTDNDz?usp=sharing
+https://drive.google.com/file/d/1E5Cfa2I-NTNYZswHMSQKbcqTks2wGtiv/view?usp=sharing - database solution
 
 ## Challenges and accomplishments
 
