@@ -1,32 +1,34 @@
-# Hack Kosice Marathon: Your project name
+# Hack Kosice Marathon: Food Orderin Service
 
 *A template for projects submitted to HK Marathon 2021. You can [fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and use it as a starting point.*
 
 ## Team
 
-*Your name here!*
+Just Us
 
 ### Team members
 
-- Teammate 1, School
-- Teammate 2, School
-- Teammate 3, School
+Mikuláš Zelenák, Spojená škola svätej Uršule
+Viera Michaela Blažíčková, Spojená škola svätého Františka z Assisi
+
 
 ## Description
 
-*A clear statement of the challenges, issues, problems or gaps that your project solves and a brief description of how your project tackles the areas. What is the value of your solution? Who are the target users?*
+We tried to make a food ordering service website. It would be made for companies where people need to order food for lunch and it’s taking them a lot of time. This is a solution to make it easier. Advantage of it will be that our website could use many companies. We wanted to make a register and login system so it would be possible.
+We wanted to make the ordering clear. Make databases to remember which food is more and most ordered and when ordering this food wil be automatically be on top so you can choose easilly.
+
 
 ## Protoype
 
-*Describe the basic functionality of your prototype. What are the features you were able to implement? What features would you like to implement?*
+Actually it’s not working yet how we want it to work. In this version only logging in works.
 
 ## How to try
 
-*List any URLs relevant to demonstrating your prototype, e.g. a live url where judges can preview your app. Note that judges won't be able to setup anything in their computers.*
+Look for our presentation in powerpoin or try to run it.
 
 ## Presentation
 
-*List any links to your presentation or additional materials that you want to share with the judges.*
+Look for our presentation in powerpoin or try to run it.
 
 ## Challenges and accomplishments
 
