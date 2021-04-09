@@ -25,20 +25,23 @@ Actually it’s not working yet how we want it to work. In this version only log
 ## How to try
 
 Look for our presentation in powerpoin or try to run it.
+https://drive.google.com/file/d/1xAWQ6tzw998bcYK920XH-YZlC04Twa8B/view?usp=sharing
+https://drive.google.com/drive/folders/1LXduF7B26ZaYrr5jS8C3BUeMjboTDNDz?usp=sharing
 
 ## Presentation
 
 Look for our presentation in powerpoin or try to run it.
+https://drive.google.com/file/d/1xAWQ6tzw998bcYK920XH-YZlC04Twa8B/view?usp=sharing
+https://drive.google.com/drive/folders/1LXduF7B26ZaYrr5jS8C3BUeMjboTDNDz?usp=sharing
 
 ## Challenges and accomplishments
 
-*Is there anything unexpected that you learned over the course of this project?*
-
-*Is there something your team is particularly proud of, related to this project?*
+We dont know why but database on our app warent created so we couldnt acces it. We still dont know what was the problem but we are working on it
+nex challange was github couse we couldnt uploud our presentation and folders with files just files. It was big suprise few seconds before midnight.
 
 ## Next steps
 
-*What do you need to do next to turn this prototype into a working solution?*
+We will work on the database and statistics. We wel take location from our costumers and sugesst nearest restaurations.
 
 ## License
 
